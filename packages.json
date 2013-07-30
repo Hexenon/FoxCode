@@ -10,8 +10,8 @@
 			"platforms": {
 				"windows": [
 					{
-						"version": "1.0.0",
-						"url": "https://codeload.github.com/Hexenon/FoxCode/zip/master"
+						"version": "1.0",
+						"url": "https://nodeload.github.com/Hexenon/FoxCode/zip/v1.0"
 					}
 				]
 			}
