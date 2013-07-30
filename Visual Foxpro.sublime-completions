@@ -4,9 +4,9 @@
 	"completions":
 	[
 		{ "trigger": "if", "contents": "if ${1:expression}\n\t$2\n${3:else\n\t}$4\nendif\n", "description" : "if" },
-		{ "trigger": "docase", "contents": "do case\n\tcase ${1:caso}\n\t${3:otherwise\n\t\t}$4\nendcase\n" , "description" : "do case"},
-		{ "trigger": "func", "contents": "function ${1:FuncName}(${2:${3:parametro1}${4:,${5:parametro2}${6:,${7:parametro3}${8:,${9:parametro4}}}}})\n\t$10\n\treturn \"\"\nendfunc\n" },
-		{ "trigger": "proc", "contents": "procedure ${1:ProcName}\n\t${2:lparameters}\nendproc\n" },
+		{ "trigger": "do case", "contents": "do case\n\tcase ${1:caso}\n\t${3:otherwise\n\t\t}$4\nendcase\n" , "description" : "do case"},
+		{ "trigger": "function", "contents": "function ${1:FuncName}(${2:${3:parametro1}${4:,${5:parametro2}${6:,${7:parametro3}${8:,${9:parametro4}}}}})\n\t$10\n\treturn \"\"\nendfunc\n" },
+		{ "trigger": "procedure", "contents": "procedure ${1:ProcName}\n\t${2:lparameters}\nendproc\n" },
 		{ "trigger": "seek", "contents": "seek ${1:expression} in ${2:alias} order ${3:order\n}"},
 		{ "trigger": "seek()", "contents": "seek(\"${1:alias}\",\"${2:order}\",${3:expression})"},
 		{ "trigger": "select", "contents": "select ${1:alias}\n"},
