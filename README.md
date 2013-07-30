@@ -28,3 +28,6 @@ Foxpro: Edit Completions snippets
 Snippets
    - Function, Procedure, Seek, Seek()... etc..
 
+How to install:
+
+Add all files into a zip, call it Foxpro.zip, rename the file extention to Sublime-package, copy to folder installed packates, restart sublime text... and try it out.
