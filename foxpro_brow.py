@@ -11,5 +11,5 @@ class foxpro_brow(sublime_plugin.WindowCommand):
     		user_input = "?"
 
         path = sublime.packages_path() + "\\Foxpro\\Bats\\"
-    	self.window.run_command("exec",{"cmd":["brow.bat",path + "brow.fxp",user_input],"working_dir": path})
+    	self.window.run_command("exec",{"cmd":["start.bat",path + "brow.fxp",user_input],"working_dir": path})
     	pass
