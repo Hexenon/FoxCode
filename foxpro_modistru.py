@@ -12,5 +12,5 @@ class foxpro_modistru(sublime_plugin.WindowCommand):
     		user_input ="?"
 
         path = sublime.packages_path() + "\\Foxpro\\Bats\\"
-    	self.window.run_command("exec",{"cmd":["modistru.bat",path+"modistru.fxp",user_input],"working_dir": path})
+    	self.window.run_command("exec",{"cmd":["start.bat",path+"modistru.fxp",user_input],"working_dir": path})
     	pass
