@@ -10,6 +10,7 @@ class foxpro_run(sublime_plugin.WindowCommand):
     def on_done(self,user_input):
       if user_input == "":
     		user_input = self.window.active_view().file_name()
-
-    	self.window.run_command("exec",{"cmd":["foxrun.bat",user_input],"working_dir": "\\kernelup\\start\\"})
+        
+        path = sublime.packages_path() + "\\Foxpro\\Bats\\"
+    	self.window.run_command("exec",{"cmd":["start.bat",user_input],"working_dir": path})
     	pass
