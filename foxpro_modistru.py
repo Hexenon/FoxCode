@@ -5,7 +5,7 @@ import re
 class foxpro_modistru(sublime_plugin.WindowCommand):  
     def run(self):
         self.window.show_input_panel("Modify Structure:", "", self.on_done, None, None)
-        pass
+    	pass
 
     def on_done(self,user_input):
       if user_input == "":
