@@ -1,0 +1,43 @@
+[
+    {
+        "caption": "FoxPro: Console",
+        "command": "foxconsole"
+    },
+    {
+        "caption": "FoxPro: Run",
+        "command": "foxpro_run"
+    },
+    {
+        "caption": "FoxPro: Compile",
+        "command": "foxpro_compile"
+    },
+    {
+        "caption": "FoxPro: Modify Structure",
+        "command": "foxpro_modistru"
+    },
+    {
+        "caption": "FoxPro: Browse",
+        "command": "foxpro_brow"
+    },
+  {
+        "caption": "FoxPro: Edit Commands",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/Foxpro/Default.sublime-commands"
+        }
+    },
+	{
+        "caption": "FoxPro: Edit Language Settings",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/Foxpro/Foxpro.tmLanguage"
+        }
+    },
+    {
+        "caption": "FoxPro: Edit Completions Snippets",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/Foxpro/Visual Foxpro.sublime-completions"
+        }
+    }
+]
