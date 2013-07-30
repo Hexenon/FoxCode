@@ -5,13 +5,13 @@
 			"name": "Foxpro IDE Simulator",
 			"description": "All you need to code in Foxpro",
 			"author": "Hexenon",
-			"homepage": "https://github.com/Hexenon/Foxpro",
+			"homepage": "https://github.com/Hexenon/Foxcode",
 			"last_modified": "2013-07-29 02:00:00",
 			"platforms": {
 				"windows": [
 					{
 						"version": "1.0.0",
-						"url": "https://nodeload.github.com/Hexenon/Foxpro/zip/Hexenon"
+						"url": "https://github.com/Hexenonyour_github_username/Foxcode/zip/Hexenon"
 					}
 				]
 			}
