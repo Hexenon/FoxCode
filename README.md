@@ -36,6 +36,9 @@ Control Package: Foxpro IDE Simulator
 Special thanks to:
 
 Matt Slay                      https://github.com/mattslay
+
 Alejandro Sanchez
+
 Othoniel Cazarez
+
 Jorge Chavez
