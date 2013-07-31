@@ -30,4 +30,12 @@ Snippets
 
 How to install:
 
-Add all files into a zip, call it Foxpro.zip, rename the file extention to Sublime-package, copy to folder installed packates, restart sublime text... and try it out.
+Control Package: Foxpro IDE Simulator
+
+
+Special thanks to:
+
+Matt Slay                      https://github.com/mattslay
+Alejandro Sanchez
+Othoniel Cazarez
+Jorge Chavez
