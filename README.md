@@ -6,8 +6,7 @@ Os: Windows 64 Bits Supported
 
 
 Features:
-Added properties and methods which initial is A,B,C,D... 
-working on the rest yet.
+Added properties, methods and events to syntax coloring as... keyword.method/property/event 
 
 Ctrl+Shift+p
 Foxpro: Console
