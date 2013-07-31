@@ -2,7 +2,7 @@
   "schema_version": "1.2",
   "packages": [
 		{
-			"name": "Foxpro IDE Simulator",
+			"name": "FoxCode",
 			"description": "All you need to code in Foxpro",
 			"author": "Hexenon",
 			"homepage": "https://github.com/Hexenon/Foxcode",
